@@ -1,0 +1,25 @@
+body{
+    background:  #92a8d1;
+    color: white;
+}
+hr{
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+h1{
+
+    position: relative;
+    left: 40%;
+}
+#my-image1, #my-image2, #my-image3{
+
+    border: 1px solid brown;
+    margin: 15px 30px;
+    padding: 20px;
+    width: 12%;
+    background-color: burlywood;
+}
+#detail{
+ font-style: italic;
+ font-size: 2em;
+}
